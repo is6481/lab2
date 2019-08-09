@@ -53,8 +53,8 @@ and a full schema can be found
 Instructions
 ============
 
-For each strategic objective above, provide a written description of the
-following.
+For the strategic objective of increasing monthly per-customer revenue,
+provide a written description of the following.
 
 -   One or two initiatives you plan on executing to meet the objectives.
 -   For each initiative list the following.
