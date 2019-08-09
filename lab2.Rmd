@@ -16,10 +16,7 @@ In chapter 2 of our text, we discuss how to link strategy and business analytics
 ### DVD Rental Business
 This lab is the first of a three part exercise to link strategy and analytics. For these exercises, we consider a fictional DVD rental business. Back in the old days, DVD rental businesses existed as stand-alone store fronts. (In the beginning, these stores rented something called a VHS tape, but we'll skip that part of ancient history.) These businesses contained rows and rows of physical shelves where customers could browse the different titles. Customers could then rent the DVD for a period of usually three nights. To rent the DVD, the customer was required to stand in something called a "line" behind other people and have an employee of the store ring them up using a cash register. The customer would then go home and watch their newly rented DVD. The customer then returned the video within the rental period. If the DVD was returned after the rental period, the customer would be faced with fines for each night the vidoe was out beyond the rental period.
 
-The corporate office of the DVD rental business has set the following strategic objectives for the next year.
-
-1. something
-2. something else
+The corporate office of the DVD rental business has set a strategic goal to **increase monthly per-customer revenue**.
 
 We have the full relational database which includes the following tables and a full schema can be found [here](http://www.postgresqltutorial.com/postgresql-sample-database/).
 

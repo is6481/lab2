@@ -26,11 +26,8 @@ the DVD was returned after the rental period, the customer would be
 faced with fines for each night the vidoe was out beyond the rental
 period.
 
-The corporate office of the DVD rental business has set the following
-strategic objectives for the next year.
-
-1.  something
-2.  something else
+The corporate office of the DVD rental business has set a strategic goal
+to **increase monthly per-customer revenue**.
 
 We have the full relational database which includes the following tables
 and a full schema can be found
