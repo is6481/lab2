@@ -29,8 +29,8 @@ period.
 The corporate office of the DVD rental business has set a strategic goal
 to **increase monthly per-customer revenue**.
 
-We have the full relational database which includes the following tables
-and a full schema can be found
+We have the full relational database which includes the following
+tables, a full schema can be found
 [here](http://www.postgresqltutorial.com/postgresql-sample-database/).
 
 -   actor – stores actors data including first name and last name.
@@ -53,13 +53,13 @@ and a full schema can be found
 Instructions
 ============
 
-For the strategic objective of increasing monthly per-customer revenue,
-provide a written description of the following.
+For the strategic objective of **increasing monthly per-customer
+revenue**, provide a written description of the following.
 
 -   One or two initiatives you plan on executing to meet the objectives.
 -   For each initiative list the following.
-    -   Two or three metrics that will measure the effectiveness of the
-        initiatives.
+    -   Three or four metrics that will measure the effectiveness of the
+        initiatives. (At least one needs to be **per-customer revenue**)
     -   Note how the suggested metrics might be gamed by the business.
 -   Look through the list of tables and think through how they might
     need to be combined to create the metrics you have described.
