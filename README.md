@@ -60,7 +60,7 @@ revenue**, provide a written description of the following.
 -   For each initiative list the following.
     -   Three or four metrics that will measure the effectiveness of the
         initiatives. (At least one needs to be **per-customer revenue**)
-    -   Note how the suggested metrics might be gamed by the business.
+    -   Create targets for each metric.
 -   Look through the list of tables and think through how they might
     need to be combined to create the metrics you have described.
     -   Write up a plan for how you need to combine the data.
