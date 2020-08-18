@@ -56,8 +56,8 @@ Instructions
 For the strategic objective of **increasing monthly per-customer
 revenue**, provide a written description of the following.
 
--   One or two initiatives (or programs) you plan on executing to meet
-    the objectives.
+-   One or two initiatives (or programs) you might execute to meet the
+    objectives.
 -   For each initiative list the following.
     -   Two to four metrics that will measure the effectiveness of the
         initiatives. (At least one needs to be **per-customer revenue**)
